@@ -1,0 +1,22 @@
+DiffusionCoeff	1e-7
+DisorderStart	0
+DisorderEnd	0
+DisorderStep	0
+DensityStart	1e22
+DensityEnd	1e22
+DensityStep	1
+SigletLifetime	300e-12
+dt	1e-12
+xBC	0
+yBC	0
+zBC	1
+UpperExcitonLimit	1000
+LowerExcitonLimit	10
+zDimension	50e-9
+nProcessors	0
+
+
+Boundary Conditions:
+0-periodic BC
+1-reflecting BC
+2-Extracting BC

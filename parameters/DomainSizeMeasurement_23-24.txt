@@ -1,0 +1,20 @@
+dx	1.9e-9
+dt	1e-12
+disorder	0
+SingletLifetime	800e-12
+domainSizeStart	10
+domainSizeStop	1
+domainSizeStep	1
+lowerExcitonLimit	4000
+densityStart	1e23
+densityStop	1e24
+densityStep	0.1
+zBC	0
+injectionBarrier	1
+NumerofProcessors	0
+
+
+Boundary Conditions:
+0-periodic BC
+1-reflecting BC
+2-Extracting BC

@@ -1,0 +1,19 @@
+dx	0.5e-9
+dt	2e-13
+disorder	0
+domainSizeStart	50
+domainSizeStop	10
+domainSizeStep	10
+lowerExcitonLimit	10
+densityStart	1e22
+densityStop	1e23
+densityStep	1
+zBC	0
+injectionBarrier	1
+NumerofProcessors	0
+
+
+Boundary Conditions:
+0-periodic BC
+1-reflecting BC
+2-Extracting BC
